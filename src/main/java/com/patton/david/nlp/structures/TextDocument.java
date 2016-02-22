@@ -17,12 +17,17 @@ public class TextDocument {
     }
     private SentenceBuilder sentenceBuilder;
     private Word lastWord;
+    private List<ProperNoun> properNouns;
+    public List<ProperNoun> getProperNouns() {
+        return this.properNouns;
+    }
 
     public TextDocument() {
         this.sentences = new ArrayList<Sentence>();
         this.tokens = new ArrayList<CharacterToken>();
         this.sentenceBuilder = new SentenceBuilder();
         this.lastWord = null;
+        this.properNouns = new ArrayList<ProperNoun>();
     }
 
     public void append(CharacterToken token) {
@@ -39,6 +44,10 @@ public class TextDocument {
         if (sentence != null) {
             sentences.add(sentence);
         }
+    }
+
+    public void appendProperNoun(ProperNoun properNoun) {
+        properNouns.add(properNoun);
     }
 
     public void finalize() {

@@ -1137,5 +1137,34 @@
   }, {
     "id" : 284,
     "token" : "."
+  } ],
+  "properNouns" : [ {
+    "id" : 0,
+    "startProperNounIndex" : 32,
+    "endProperNounIndex" : 34
+  }, {
+    "id" : 1,
+    "startProperNounIndex" : 141,
+    "endProperNounIndex" : 143
+  }, {
+    "id" : 2,
+    "startProperNounIndex" : 160,
+    "endProperNounIndex" : 162
+  }, {
+    "id" : 3,
+    "startProperNounIndex" : 171,
+    "endProperNounIndex" : 173
+  }, {
+    "id" : 4,
+    "startProperNounIndex" : 191,
+    "endProperNounIndex" : 191
+  }, {
+    "id" : 5,
+    "startProperNounIndex" : 208,
+    "endProperNounIndex" : 210
+  }, {
+    "id" : 6,
+    "startProperNounIndex" : 226,
+    "endProperNounIndex" : 226
   } ]
 }

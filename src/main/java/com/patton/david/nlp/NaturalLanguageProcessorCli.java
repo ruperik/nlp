@@ -1,9 +1,13 @@
 package com.patton.david.nlp;
 
 import com.patton.david.nlp.serialization.Serializer;
+import com.patton.david.nlp.structures.CharacterToken;
+import com.patton.david.nlp.structures.Dictionary;
 import com.patton.david.nlp.structures.TextDocument;
 import org.apache.commons.cli.*;
 
+import java.io.BufferedInputStream;
+import java.io.FileInputStream;
 import java.io.IOException;
 import java.util.List;
 
@@ -16,7 +20,7 @@ import java.util.List;
  */
 public class NaturalLanguageProcessorCli {
 
-    public static final String HELP_FORMAT = "nlp [OPTIONS] source_file target_file";
+    public static final String HELP_FORMAT = "nlp [OPTIONS] source_file target_file dictionary_file";
     public static final String HELP_SHORT_OPTION = "h";
     public static final String HELP_LONG_OPTION = "help";
     public static final String HELP_DESCRIPTION = "print help";
@@ -53,12 +57,16 @@ public class NaturalLanguageProcessorCli {
         List<String> filenames = cli.getArgList();
         if (filenames.size() < 2) {
             throw new IllegalArgumentException("Please pass source and target filenames");
-        } else if (filenames.size() > 2){
-            throw new IllegalArgumentException("Please do not pass more than source and target filenames");
+        } else if (filenames.size() > 3){
+            throw new IllegalArgumentException("Please do not pass more than source, target, and dictionary filenames");
         }
         String sourceFilename = filenames.get(0);
         String targetFilename = filenames.get(1);
-        TextDocument document = processor.parseFile(sourceFilename);
+        String dictionaryFilename = null;
+        if (filenames.size() == 3) {
+            dictionaryFilename = filenames.get(2);
+        }
+        TextDocument document = processor.parseFile(sourceFilename, dictionaryFilename);
         //Serialize document to file
         Serializer serializer = new Serializer();
         serializer.serializeToFile(document, targetFilename);

@@ -19,3 +19,9 @@ Overview:
     would need to know every possible access path to optimize the data objects for access.  An array based approach
     is a little bit more complex to implement business logic, but can be easily applied on top of existing serialized
     data without changing the underlying data objects that much.
+    
+Changes:
+    I added in a Trie data structure and a Dictionary data structure utilizing it to hold all of the possible proper nounds
+    from NER.txt.  I then modified the NLP to take in a path to the file so it could parse the file and populate the dictionary.
+    The modified parseFile to keep track of the active edges in the Trie as it parsed the text and then calculate the start
+    and end indexes for a ProperNound and add it to the TextDocument.
