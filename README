@@ -1,0 +1,21 @@
+Assumptions:
+    1. A sentence boundary is represented by a single "." followed by optional punctuation (like "\"")
+       and then whitespace.
+    2. I utilized external libraries for serialization and command line parsing.  The original instructions
+       appeared to only restrict me from using natural language processing libraries, and I didn't find
+       the existing Java libraries for these functions sufficient.
+    3. I also used JSON instead of XML for serialization because it is more compact and efficient than XML.
+
+Overview:
+    I created a single abstract base class for tokens.  I then extended it with the basic types of tokens I was expecting:
+    whitespace, words, and punctuation.  I also defined a document object to represent all of the tokens and then the
+    sentence boundaries.  I created a sentence object to hold those sentence boundaries.  I chose an array based
+    implementation for my document because it would be easier to serialize as well as faster for data access to
+    individual objects.  It does add complexity, since each object only holds its id plus possible id references to
+    other objects that will have to be resolved through the master document.  The alternative would be to maintain
+    everything as a reference and then simply keep track of the the root token and root sentence.  This would give
+    slower data access unless you started tracking other types of links (like a map of each unique token to the
+    instances of that token).  It also would tightly couple your business logic to your data objects, since you
+    would need to know every possible access path to optimize the data objects for access.  An array based approach
+    is a little bit more complex to implement business logic, but can be easily applied on top of existing serialized
+    data without changing the underlying data objects that much.

@@ -1,0 +1,1141 @@
+{
+  "sentences" : [ {
+    "id" : 0,
+    "startSentenceIndex" : 0,
+    "endSentenceIndex" : 102
+  }, {
+    "id" : 1,
+    "startSentenceIndex" : 103,
+    "endSentenceIndex" : 192
+  }, {
+    "id" : 2,
+    "startSentenceIndex" : 193,
+    "endSentenceIndex" : 250
+  }, {
+    "id" : 3,
+    "startSentenceIndex" : 251,
+    "endSentenceIndex" : 284
+  } ],
+  "tokens" : [ {
+    "id" : 0,
+    "token" : "The",
+    "previousWordId" : 0,
+    "nextWordId" : 2
+  }, {
+    "id" : 1,
+    "token" : " "
+  }, {
+    "id" : 2,
+    "token" : "term",
+    "previousWordId" : 0,
+    "nextWordId" : 5
+  }, {
+    "id" : 3,
+    "token" : " "
+  }, {
+    "id" : 4,
+    "token" : "\""
+  }, {
+    "id" : 5,
+    "token" : "First",
+    "previousWordId" : 2,
+    "nextWordId" : 7
+  }, {
+    "id" : 6,
+    "token" : " "
+  }, {
+    "id" : 7,
+    "token" : "World",
+    "previousWordId" : 5,
+    "nextWordId" : 9
+  }, {
+    "id" : 8,
+    "token" : " "
+  }, {
+    "id" : 9,
+    "token" : "War",
+    "previousWordId" : 7,
+    "nextWordId" : 12
+  }, {
+    "id" : 10,
+    "token" : "\""
+  }, {
+    "id" : 11,
+    "token" : " "
+  }, {
+    "id" : 12,
+    "token" : "was",
+    "previousWordId" : 9,
+    "nextWordId" : 14
+  }, {
+    "id" : 13,
+    "token" : " "
+  }, {
+    "id" : 14,
+    "token" : "first",
+    "previousWordId" : 12,
+    "nextWordId" : 16
+  }, {
+    "id" : 15,
+    "token" : " "
+  }, {
+    "id" : 16,
+    "token" : "used",
+    "previousWordId" : 14,
+    "nextWordId" : 18
+  }, {
+    "id" : 17,
+    "token" : " "
+  }, {
+    "id" : 18,
+    "token" : "in",
+    "previousWordId" : 16,
+    "nextWordId" : 20
+  }, {
+    "id" : 19,
+    "token" : " "
+  }, {
+    "id" : 20,
+    "token" : "September",
+    "previousWordId" : 18,
+    "nextWordId" : 22
+  }, {
+    "id" : 21,
+    "token" : " "
+  }, {
+    "id" : 22,
+    "token" : "1914",
+    "previousWordId" : 20,
+    "nextWordId" : 24
+  }, {
+    "id" : 23,
+    "token" : " "
+  }, {
+    "id" : 24,
+    "token" : "by",
+    "previousWordId" : 22,
+    "nextWordId" : 26
+  }, {
+    "id" : 25,
+    "token" : " "
+  }, {
+    "id" : 26,
+    "token" : "the",
+    "previousWordId" : 24,
+    "nextWordId" : 28
+  }, {
+    "id" : 27,
+    "token" : " "
+  }, {
+    "id" : 28,
+    "token" : "German",
+    "previousWordId" : 26,
+    "nextWordId" : 30
+  }, {
+    "id" : 29,
+    "token" : " "
+  }, {
+    "id" : 30,
+    "token" : "philosopher",
+    "previousWordId" : 28,
+    "nextWordId" : 32
+  }, {
+    "id" : 31,
+    "token" : " "
+  }, {
+    "id" : 32,
+    "token" : "Ernst",
+    "previousWordId" : 30,
+    "nextWordId" : 34
+  }, {
+    "id" : 33,
+    "token" : " "
+  }, {
+    "id" : 34,
+    "token" : "Haeckel",
+    "previousWordId" : 32,
+    "nextWordId" : 37
+  }, {
+    "id" : 35,
+    "token" : ","
+  }, {
+    "id" : 36,
+    "token" : " "
+  }, {
+    "id" : 37,
+    "token" : "who",
+    "previousWordId" : 34,
+    "nextWordId" : 39
+  }, {
+    "id" : 38,
+    "token" : " "
+  }, {
+    "id" : 39,
+    "token" : "claimed",
+    "previousWordId" : 37,
+    "nextWordId" : 41
+  }, {
+    "id" : 40,
+    "token" : " "
+  }, {
+    "id" : 41,
+    "token" : "that",
+    "previousWordId" : 39,
+    "nextWordId" : 44
+  }, {
+    "id" : 42,
+    "token" : " "
+  }, {
+    "id" : 43,
+    "token" : "\""
+  }, {
+    "id" : 44,
+    "token" : "there",
+    "previousWordId" : 41,
+    "nextWordId" : 46
+  }, {
+    "id" : 45,
+    "token" : " "
+  }, {
+    "id" : 46,
+    "token" : "is",
+    "previousWordId" : 44,
+    "nextWordId" : 48
+  }, {
+    "id" : 47,
+    "token" : " "
+  }, {
+    "id" : 48,
+    "token" : "no",
+    "previousWordId" : 46,
+    "nextWordId" : 50
+  }, {
+    "id" : 49,
+    "token" : " "
+  }, {
+    "id" : 50,
+    "token" : "doubt",
+    "previousWordId" : 48,
+    "nextWordId" : 52
+  }, {
+    "id" : 51,
+    "token" : " "
+  }, {
+    "id" : 52,
+    "token" : "that",
+    "previousWordId" : 50,
+    "nextWordId" : 54
+  }, {
+    "id" : 53,
+    "token" : " "
+  }, {
+    "id" : 54,
+    "token" : "the",
+    "previousWordId" : 52,
+    "nextWordId" : 56
+  }, {
+    "id" : 55,
+    "token" : " "
+  }, {
+    "id" : 56,
+    "token" : "course",
+    "previousWordId" : 54,
+    "nextWordId" : 58
+  }, {
+    "id" : 57,
+    "token" : " "
+  }, {
+    "id" : 58,
+    "token" : "and",
+    "previousWordId" : 56,
+    "nextWordId" : 60
+  }, {
+    "id" : 59,
+    "token" : " "
+  }, {
+    "id" : 60,
+    "token" : "character",
+    "previousWordId" : 58,
+    "nextWordId" : 62
+  }, {
+    "id" : 61,
+    "token" : " "
+  }, {
+    "id" : 62,
+    "token" : "of",
+    "previousWordId" : 60,
+    "nextWordId" : 64
+  }, {
+    "id" : 63,
+    "token" : " "
+  }, {
+    "id" : 64,
+    "token" : "the",
+    "previousWordId" : 62,
+    "nextWordId" : 66
+  }, {
+    "id" : 65,
+    "token" : " "
+  }, {
+    "id" : 66,
+    "token" : "feared",
+    "previousWordId" : 64,
+    "nextWordId" : 69
+  }, {
+    "id" : 67,
+    "token" : " "
+  }, {
+    "id" : 68,
+    "token" : "'"
+  }, {
+    "id" : 69,
+    "token" : "European",
+    "previousWordId" : 66,
+    "nextWordId" : 71
+  }, {
+    "id" : 70,
+    "token" : " "
+  }, {
+    "id" : 71,
+    "token" : "War",
+    "previousWordId" : 69,
+    "nextWordId" : 76
+  }, {
+    "id" : 72,
+    "token" : "'"
+  }, {
+    "id" : 73,
+    "token" : " "
+  }, {
+    "id" : 74,
+    "token" : "..."
+  }, {
+    "id" : 75,
+    "token" : " "
+  }, {
+    "id" : 76,
+    "token" : "will",
+    "previousWordId" : 71,
+    "nextWordId" : 78
+  }, {
+    "id" : 77,
+    "token" : " "
+  }, {
+    "id" : 78,
+    "token" : "become",
+    "previousWordId" : 76,
+    "nextWordId" : 80
+  }, {
+    "id" : 79,
+    "token" : " "
+  }, {
+    "id" : 80,
+    "token" : "the",
+    "previousWordId" : 78,
+    "nextWordId" : 82
+  }, {
+    "id" : 81,
+    "token" : " "
+  }, {
+    "id" : 82,
+    "token" : "first",
+    "previousWordId" : 80,
+    "nextWordId" : 84
+  }, {
+    "id" : 83,
+    "token" : " "
+  }, {
+    "id" : 84,
+    "token" : "world",
+    "previousWordId" : 82,
+    "nextWordId" : 86
+  }, {
+    "id" : 85,
+    "token" : " "
+  }, {
+    "id" : 86,
+    "token" : "war",
+    "previousWordId" : 84,
+    "nextWordId" : 88
+  }, {
+    "id" : 87,
+    "token" : " "
+  }, {
+    "id" : 88,
+    "token" : "in",
+    "previousWordId" : 86,
+    "nextWordId" : 90
+  }, {
+    "id" : 89,
+    "token" : " "
+  }, {
+    "id" : 90,
+    "token" : "the",
+    "previousWordId" : 88,
+    "nextWordId" : 92
+  }, {
+    "id" : 91,
+    "token" : " "
+  }, {
+    "id" : 92,
+    "token" : "full",
+    "previousWordId" : 90,
+    "nextWordId" : 94
+  }, {
+    "id" : 93,
+    "token" : " "
+  }, {
+    "id" : 94,
+    "token" : "sense",
+    "previousWordId" : 92,
+    "nextWordId" : 96
+  }, {
+    "id" : 95,
+    "token" : " "
+  }, {
+    "id" : 96,
+    "token" : "of",
+    "previousWordId" : 94,
+    "nextWordId" : 98
+  }, {
+    "id" : 97,
+    "token" : " "
+  }, {
+    "id" : 98,
+    "token" : "the",
+    "previousWordId" : 96,
+    "nextWordId" : 100
+  }, {
+    "id" : 99,
+    "token" : " "
+  }, {
+    "id" : 100,
+    "token" : "word",
+    "previousWordId" : 98,
+    "nextWordId" : 104
+  }, {
+    "id" : 101,
+    "token" : "."
+  }, {
+    "id" : 102,
+    "token" : "\""
+  }, {
+    "id" : 103,
+    "token" : "\n\n"
+  }, {
+    "id" : 104,
+    "token" : "Why",
+    "previousWordId" : 100,
+    "nextWordId" : 106
+  }, {
+    "id" : 105,
+    "token" : " "
+  }, {
+    "id" : 106,
+    "token" : "did",
+    "previousWordId" : 104,
+    "nextWordId" : 108
+  }, {
+    "id" : 107,
+    "token" : " "
+  }, {
+    "id" : 108,
+    "token" : "the",
+    "previousWordId" : 106,
+    "nextWordId" : 110
+  }, {
+    "id" : 109,
+    "token" : " "
+  }, {
+    "id" : 110,
+    "token" : "war",
+    "previousWordId" : 108,
+    "nextWordId" : 112
+  }, {
+    "id" : 111,
+    "token" : " "
+  }, {
+    "id" : 112,
+    "token" : "begin",
+    "previousWordId" : 110,
+    "nextWordId" : 115
+  }, {
+    "id" : 113,
+    "token" : "?"
+  }, {
+    "id" : 114,
+    "token" : " "
+  }, {
+    "id" : 115,
+    "token" : "The",
+    "previousWordId" : 112,
+    "nextWordId" : 117
+  }, {
+    "id" : 116,
+    "token" : " "
+  }, {
+    "id" : 117,
+    "token" : "immediate",
+    "previousWordId" : 115,
+    "nextWordId" : 119
+  }, {
+    "id" : 118,
+    "token" : " "
+  }, {
+    "id" : 119,
+    "token" : "trigger",
+    "previousWordId" : 117,
+    "nextWordId" : 121
+  }, {
+    "id" : 120,
+    "token" : " "
+  }, {
+    "id" : 121,
+    "token" : "for",
+    "previousWordId" : 119,
+    "nextWordId" : 123
+  }, {
+    "id" : 122,
+    "token" : " "
+  }, {
+    "id" : 123,
+    "token" : "war",
+    "previousWordId" : 121,
+    "nextWordId" : 125
+  }, {
+    "id" : 124,
+    "token" : " "
+  }, {
+    "id" : 125,
+    "token" : "was",
+    "previousWordId" : 123,
+    "nextWordId" : 127
+  }, {
+    "id" : 126,
+    "token" : " "
+  }, {
+    "id" : 127,
+    "token" : "the",
+    "previousWordId" : 125,
+    "nextWordId" : 129
+  }, {
+    "id" : 128,
+    "token" : " "
+  }, {
+    "id" : 129,
+    "token" : "28",
+    "previousWordId" : 127,
+    "nextWordId" : 131
+  }, {
+    "id" : 130,
+    "token" : " "
+  }, {
+    "id" : 131,
+    "token" : "June",
+    "previousWordId" : 129,
+    "nextWordId" : 133
+  }, {
+    "id" : 132,
+    "token" : " "
+  }, {
+    "id" : 133,
+    "token" : "1914",
+    "previousWordId" : 131,
+    "nextWordId" : 135
+  }, {
+    "id" : 134,
+    "token" : " "
+  }, {
+    "id" : 135,
+    "token" : "assassination",
+    "previousWordId" : 133,
+    "nextWordId" : 137
+  }, {
+    "id" : 136,
+    "token" : " "
+  }, {
+    "id" : 137,
+    "token" : "of",
+    "previousWordId" : 135,
+    "nextWordId" : 139
+  }, {
+    "id" : 138,
+    "token" : " "
+  }, {
+    "id" : 139,
+    "token" : "Archduke",
+    "previousWordId" : 137,
+    "nextWordId" : 141
+  }, {
+    "id" : 140,
+    "token" : " "
+  }, {
+    "id" : 141,
+    "token" : "Franz",
+    "previousWordId" : 139,
+    "nextWordId" : 143
+  }, {
+    "id" : 142,
+    "token" : " "
+  }, {
+    "id" : 143,
+    "token" : "Ferdinand",
+    "previousWordId" : 141,
+    "nextWordId" : 145
+  }, {
+    "id" : 144,
+    "token" : " "
+  }, {
+    "id" : 145,
+    "token" : "of",
+    "previousWordId" : 143,
+    "nextWordId" : 147
+  }, {
+    "id" : 146,
+    "token" : " "
+  }, {
+    "id" : 147,
+    "token" : "Austria",
+    "previousWordId" : 145,
+    "nextWordId" : 150
+  }, {
+    "id" : 148,
+    "token" : ","
+  }, {
+    "id" : 149,
+    "token" : " "
+  }, {
+    "id" : 150,
+    "token" : "heir",
+    "previousWordId" : 147,
+    "nextWordId" : 152
+  }, {
+    "id" : 151,
+    "token" : " "
+  }, {
+    "id" : 152,
+    "token" : "to",
+    "previousWordId" : 150,
+    "nextWordId" : 154
+  }, {
+    "id" : 153,
+    "token" : " "
+  }, {
+    "id" : 154,
+    "token" : "the",
+    "previousWordId" : 152,
+    "nextWordId" : 156
+  }, {
+    "id" : 155,
+    "token" : " "
+  }, {
+    "id" : 156,
+    "token" : "throne",
+    "previousWordId" : 154,
+    "nextWordId" : 158
+  }, {
+    "id" : 157,
+    "token" : " "
+  }, {
+    "id" : 158,
+    "token" : "of",
+    "previousWordId" : 156,
+    "nextWordId" : 160
+  }, {
+    "id" : 159,
+    "token" : " "
+  }, {
+    "id" : 160,
+    "token" : "Austria",
+    "previousWordId" : 158,
+    "nextWordId" : 162
+  }, {
+    "id" : 161,
+    "token" : "-"
+  }, {
+    "id" : 162,
+    "token" : "Hungary",
+    "previousWordId" : 160,
+    "nextWordId" : 165
+  }, {
+    "id" : 163,
+    "token" : ","
+  }, {
+    "id" : 164,
+    "token" : " "
+  }, {
+    "id" : 165,
+    "token" : "by",
+    "previousWordId" : 162,
+    "nextWordId" : 167
+  }, {
+    "id" : 166,
+    "token" : " "
+  }, {
+    "id" : 167,
+    "token" : "Yugoslav",
+    "previousWordId" : 165,
+    "nextWordId" : 169
+  }, {
+    "id" : 168,
+    "token" : " "
+  }, {
+    "id" : 169,
+    "token" : "nationalist",
+    "previousWordId" : 167,
+    "nextWordId" : 171
+  }, {
+    "id" : 170,
+    "token" : " "
+  }, {
+    "id" : 171,
+    "token" : "Gavrilo",
+    "previousWordId" : 169,
+    "nextWordId" : 173
+  }, {
+    "id" : 172,
+    "token" : " "
+  }, {
+    "id" : 173,
+    "token" : "Princip",
+    "previousWordId" : 171,
+    "nextWordId" : 176
+  }, {
+    "id" : 174,
+    "token" : " "
+  }, {
+    "id" : 175,
+    "token" : "("
+  }, {
+    "id" : 176,
+    "token" : "19",
+    "previousWordId" : 173,
+    "nextWordId" : 178
+  }, {
+    "id" : 177,
+    "token" : " "
+  }, {
+    "id" : 178,
+    "token" : "years",
+    "previousWordId" : 176,
+    "nextWordId" : 180
+  }, {
+    "id" : 179,
+    "token" : " "
+  }, {
+    "id" : 180,
+    "token" : "old",
+    "previousWordId" : 178,
+    "nextWordId" : 182
+  }, {
+    "id" : 181,
+    "token" : " "
+  }, {
+    "id" : 182,
+    "token" : "at",
+    "previousWordId" : 180,
+    "nextWordId" : 184
+  }, {
+    "id" : 183,
+    "token" : " "
+  }, {
+    "id" : 184,
+    "token" : "the",
+    "previousWordId" : 182,
+    "nextWordId" : 186
+  }, {
+    "id" : 185,
+    "token" : " "
+  }, {
+    "id" : 186,
+    "token" : "time",
+    "previousWordId" : 184,
+    "nextWordId" : 189
+  }, {
+    "id" : 187,
+    "token" : ")"
+  }, {
+    "id" : 188,
+    "token" : " "
+  }, {
+    "id" : 189,
+    "token" : "in",
+    "previousWordId" : 186,
+    "nextWordId" : 191
+  }, {
+    "id" : 190,
+    "token" : " "
+  }, {
+    "id" : 191,
+    "token" : "Sarajevo",
+    "previousWordId" : 189,
+    "nextWordId" : 194
+  }, {
+    "id" : 192,
+    "token" : "."
+  }, {
+    "id" : 193,
+    "token" : " "
+  }, {
+    "id" : 194,
+    "token" : "This",
+    "previousWordId" : 191,
+    "nextWordId" : 196
+  }, {
+    "id" : 195,
+    "token" : " "
+  }, {
+    "id" : 196,
+    "token" : "set",
+    "previousWordId" : 194,
+    "nextWordId" : 198
+  }, {
+    "id" : 197,
+    "token" : " "
+  }, {
+    "id" : 198,
+    "token" : "off",
+    "previousWordId" : 196,
+    "nextWordId" : 200
+  }, {
+    "id" : 199,
+    "token" : " "
+  }, {
+    "id" : 200,
+    "token" : "a",
+    "previousWordId" : 198,
+    "nextWordId" : 202
+  }, {
+    "id" : 201,
+    "token" : " "
+  }, {
+    "id" : 202,
+    "token" : "diplomatic",
+    "previousWordId" : 200,
+    "nextWordId" : 204
+  }, {
+    "id" : 203,
+    "token" : " "
+  }, {
+    "id" : 204,
+    "token" : "crisis",
+    "previousWordId" : 202,
+    "nextWordId" : 206
+  }, {
+    "id" : 205,
+    "token" : " "
+  }, {
+    "id" : 206,
+    "token" : "when",
+    "previousWordId" : 204,
+    "nextWordId" : 208
+  }, {
+    "id" : 207,
+    "token" : " "
+  }, {
+    "id" : 208,
+    "token" : "Austria",
+    "previousWordId" : 206,
+    "nextWordId" : 210
+  }, {
+    "id" : 209,
+    "token" : "-"
+  }, {
+    "id" : 210,
+    "token" : "Hungary",
+    "previousWordId" : 208,
+    "nextWordId" : 212
+  }, {
+    "id" : 211,
+    "token" : " "
+  }, {
+    "id" : 212,
+    "token" : "delivered",
+    "previousWordId" : 210,
+    "nextWordId" : 214
+  }, {
+    "id" : 213,
+    "token" : " "
+  }, {
+    "id" : 214,
+    "token" : "an",
+    "previousWordId" : 212,
+    "nextWordId" : 216
+  }, {
+    "id" : 215,
+    "token" : " "
+  }, {
+    "id" : 216,
+    "token" : "ultimatum",
+    "previousWordId" : 214,
+    "nextWordId" : 218
+  }, {
+    "id" : 217,
+    "token" : " "
+  }, {
+    "id" : 218,
+    "token" : "to",
+    "previousWordId" : 216,
+    "nextWordId" : 220
+  }, {
+    "id" : 219,
+    "token" : " "
+  }, {
+    "id" : 220,
+    "token" : "the",
+    "previousWordId" : 218,
+    "nextWordId" : 222
+  }, {
+    "id" : 221,
+    "token" : " "
+  }, {
+    "id" : 222,
+    "token" : "Kingdom",
+    "previousWordId" : 220,
+    "nextWordId" : 224
+  }, {
+    "id" : 223,
+    "token" : " "
+  }, {
+    "id" : 224,
+    "token" : "of",
+    "previousWordId" : 222,
+    "nextWordId" : 226
+  }, {
+    "id" : 225,
+    "token" : " "
+  }, {
+    "id" : 226,
+    "token" : "Serbia",
+    "previousWordId" : 224,
+    "nextWordId" : 229
+  }, {
+    "id" : 227,
+    "token" : ","
+  }, {
+    "id" : 228,
+    "token" : " "
+  }, {
+    "id" : 229,
+    "token" : "and",
+    "previousWordId" : 226,
+    "nextWordId" : 231
+  }, {
+    "id" : 230,
+    "token" : " "
+  }, {
+    "id" : 231,
+    "token" : "entangled",
+    "previousWordId" : 229,
+    "nextWordId" : 233
+  }, {
+    "id" : 232,
+    "token" : " "
+  }, {
+    "id" : 233,
+    "token" : "international",
+    "previousWordId" : 231,
+    "nextWordId" : 235
+  }, {
+    "id" : 234,
+    "token" : " "
+  }, {
+    "id" : 235,
+    "token" : "alliances",
+    "previousWordId" : 233,
+    "nextWordId" : 237
+  }, {
+    "id" : 236,
+    "token" : " "
+  }, {
+    "id" : 237,
+    "token" : "formed",
+    "previousWordId" : 235,
+    "nextWordId" : 239
+  }, {
+    "id" : 238,
+    "token" : " "
+  }, {
+    "id" : 239,
+    "token" : "over",
+    "previousWordId" : 237,
+    "nextWordId" : 241
+  }, {
+    "id" : 240,
+    "token" : " "
+  }, {
+    "id" : 241,
+    "token" : "the",
+    "previousWordId" : 239,
+    "nextWordId" : 243
+  }, {
+    "id" : 242,
+    "token" : " "
+  }, {
+    "id" : 243,
+    "token" : "previous",
+    "previousWordId" : 241,
+    "nextWordId" : 245
+  }, {
+    "id" : 244,
+    "token" : " "
+  }, {
+    "id" : 245,
+    "token" : "decades",
+    "previousWordId" : 243,
+    "nextWordId" : 247
+  }, {
+    "id" : 246,
+    "token" : " "
+  }, {
+    "id" : 247,
+    "token" : "were",
+    "previousWordId" : 245,
+    "nextWordId" : 249
+  }, {
+    "id" : 248,
+    "token" : " "
+  }, {
+    "id" : 249,
+    "token" : "invoked",
+    "previousWordId" : 247,
+    "nextWordId" : 252
+  }, {
+    "id" : 250,
+    "token" : "."
+  }, {
+    "id" : 251,
+    "token" : " "
+  }, {
+    "id" : 252,
+    "token" : "Within",
+    "previousWordId" : 249,
+    "nextWordId" : 254
+  }, {
+    "id" : 253,
+    "token" : " "
+  }, {
+    "id" : 254,
+    "token" : "weeks",
+    "previousWordId" : 252,
+    "nextWordId" : 257
+  }, {
+    "id" : 255,
+    "token" : ","
+  }, {
+    "id" : 256,
+    "token" : " "
+  }, {
+    "id" : 257,
+    "token" : "the",
+    "previousWordId" : 254,
+    "nextWordId" : 259
+  }, {
+    "id" : 258,
+    "token" : " "
+  }, {
+    "id" : 259,
+    "token" : "major",
+    "previousWordId" : 257,
+    "nextWordId" : 261
+  }, {
+    "id" : 260,
+    "token" : " "
+  }, {
+    "id" : 261,
+    "token" : "powers",
+    "previousWordId" : 259,
+    "nextWordId" : 263
+  }, {
+    "id" : 262,
+    "token" : " "
+  }, {
+    "id" : 263,
+    "token" : "were",
+    "previousWordId" : 261,
+    "nextWordId" : 265
+  }, {
+    "id" : 264,
+    "token" : " "
+  }, {
+    "id" : 265,
+    "token" : "at",
+    "previousWordId" : 263,
+    "nextWordId" : 267
+  }, {
+    "id" : 266,
+    "token" : " "
+  }, {
+    "id" : 267,
+    "token" : "war",
+    "previousWordId" : 265,
+    "nextWordId" : 269
+  }, {
+    "id" : 268,
+    "token" : " "
+  }, {
+    "id" : 269,
+    "token" : "and",
+    "previousWordId" : 267,
+    "nextWordId" : 271
+  }, {
+    "id" : 270,
+    "token" : " "
+  }, {
+    "id" : 271,
+    "token" : "the",
+    "previousWordId" : 269,
+    "nextWordId" : 273
+  }, {
+    "id" : 272,
+    "token" : " "
+  }, {
+    "id" : 273,
+    "token" : "conflict",
+    "previousWordId" : 271,
+    "nextWordId" : 275
+  }, {
+    "id" : 274,
+    "token" : " "
+  }, {
+    "id" : 275,
+    "token" : "soon",
+    "previousWordId" : 273,
+    "nextWordId" : 277
+  }, {
+    "id" : 276,
+    "token" : " "
+  }, {
+    "id" : 277,
+    "token" : "spread",
+    "previousWordId" : 275,
+    "nextWordId" : 279
+  }, {
+    "id" : 278,
+    "token" : " "
+  }, {
+    "id" : 279,
+    "token" : "around",
+    "previousWordId" : 277,
+    "nextWordId" : 281
+  }, {
+    "id" : 280,
+    "token" : " "
+  }, {
+    "id" : 281,
+    "token" : "the",
+    "previousWordId" : 279,
+    "nextWordId" : 283
+  }, {
+    "id" : 282,
+    "token" : " "
+  }, {
+    "id" : 283,
+    "token" : "world",
+    "previousWordId" : 281,
+    "nextWordId" : 0
+  }, {
+    "id" : 284,
+    "token" : "."
+  } ]
+}
